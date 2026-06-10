@@ -1,4 +1,4 @@
-# 
+# Inteligente Firecrawl extensões. Com inferência em tempo real e análise de documentos — otimizado para máximo desempenho e eficiência.
 
 
 
